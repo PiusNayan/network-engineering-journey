@@ -1,0 +1,29 @@
+# Windows
+
+Thumbs.db
+Desktop.ini
+
+# macOS
+
+.DS_Store
+
+# Logs
+
+*.log
+
+# Temporary files
+
+*.tmp
+*.temp
+
+# Visual Studio Code
+
+.vscode/settings.json
+
+# Packet Tracer temporary files
+
+*.bak
+
+# Wireshark temporary files
+
+*.lck
