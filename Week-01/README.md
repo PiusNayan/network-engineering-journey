@@ -35,8 +35,8 @@ By the end of Week 1, I will be able to:
 
 | Lab                                 | Status    |
 | ----------------------------------- | --------- |
-| Packet Tracer Workspace Exploration | ⏳ Pending |
-| Basic Device Identification         | ⏳ Pending |
+| Packet Tracer Workspace Exploration | ✅ Completed |
+| Basic Device Identification         | ✅ Completed |
 | Wireshark Interface Exploration     | ⏳ Pending |
 
 ---
@@ -45,7 +45,7 @@ By the end of Week 1, I will be able to:
 
 | Day   | Topic                      | Status    |
 | ----- | -------------------------- | --------- |
-| Day 1 | Introduction to Networking | ⏳ Pending |
+| Day 1 | Introduction to Networking | ✅ Completed |
 | Day 2 | Network Components         | ⏳ Pending |
 | Day 3 | Network Types              | ⏳ Pending |
 | Day 4 | Network Devices            | ⏳ Pending |
@@ -71,4 +71,4 @@ A summary of my progress, challenges, lessons learned, and improvements will be 
 
 ## Week Status
 
-**Progress:** 0% (Week just started)
+**Progress:** 20% (Week just started)
