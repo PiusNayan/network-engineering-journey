@@ -47,32 +47,32 @@ By the end of this learning journey, I aim to:
 
 ## 📅 Roadmap
 
-| Week | Topics                              |
-| ---- | ----------------------------------- |
-| 1    | Networking Fundamentals             |
-| 2    | TCP/IP, Ethernet, DNS               |
-| 3    | IPv4 Addressing & ICMP              |
-| 4    | Subnet Masks, CIDR & ARP            |
-| 5    | Subnetting & Routing Basics         |
-| 6    | VLSM & MAC Addressing               |
-| 7    | Networking Devices & VLANs          |
-| 8    | TCP vs UDP & Network Design         |
-| 9    | Cisco IOS, Packet Analysis & Review |
+| Week | Topics | Status | Link |
+| ---- | ----------------------------------- | --------- | --- |
+| 1 | Networking Fundamentals | ✅ Completed | [Week 01 Overview](Week-01/README.md) |
+| 2 | TCP/IP, Ethernet, DNS | ⏳ Pending | - |
+| 3 | IPv4 Addressing & ICMP | ⏳ Pending | - |
+| 4 | Subnet Masks, CIDR & ARP | ⏳ Pending | - |
+| 5 | Subnetting & Routing Basics | ⏳ Pending | - |
+| 6 | VLSM & MAC Addressing | ⏳ Pending | - |
+| 7 | Networking Devices & VLANs | ⏳ Pending | - |
+| 8 | TCP vs UDP & Network Design | ⏳ Pending | - |
+| 9 | Cisco IOS, Packet Analysis & Review | ⏳ Pending | - |
 
 ---
 
 ## 📁 Repository Structure
 
-This repository will gradually include:
+This repository includes:
 
 * Weekly lesson notes
-* Packet Tracer labs
+* Packet Tracer labs (`.pkt`)
 * Wireshark analyses
-* Network diagrams
+* Network topology diagrams & screenshots
 * Cisco CLI practice
 * Subnetting exercises
 * Mini networking projects
-* Weekly reflections
+* Daily and weekly reflections
 
 ---
 
@@ -84,6 +84,7 @@ I believe that networking is best learned through consistent practice, documenta
 
 ## 🚀 Status
 
-**Current Progress:** Week 1 — Getting Started
+**Current Progress:** Week 1 Completed (100%) — Moving to Week 2.
 
-This repository will be updated regularly as I progress through my networking roadmap.
+See the complete [Week 01 Documentation & Lab Portfolio](Week-01/README.md).
+
